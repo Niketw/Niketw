@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning binex<br>🎯 Goals: Sleep all day<br>🎲 Fun fact: too lazy to write anything here</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning reverse engineering<br>🎯 Goals: Sleep all day<br>🎲 Fun fact: too lazy to write anything here</p>
 
 ###
 
