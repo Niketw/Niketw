@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Whazzup?!</h1>
+<h1 align="left">Ello 👋</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Le Skillz</h2>
+<h2 align="left">Skillz</h2>
 
 ###
 
