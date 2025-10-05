@@ -1,4 +1,4 @@
-<h1 align="center">Stats</h1>
+<h1 align="center">NO.</h1>
 
 ###
 
@@ -35,17 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="fastapi logo"  />
   <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/aniket-inamdar-86b035371" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/699527710942429204" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
 </div>
 
 ###
